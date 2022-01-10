@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lorem-ipsum-generator-in-react/static/css/main.522528e5.css",
+    "main.js": "/lorem-ipsum-generator-in-react/static/js/main.c5f05f07.js",
+    "index.html": "/lorem-ipsum-generator-in-react/index.html",
+    "main.522528e5.css.map": "/lorem-ipsum-generator-in-react/static/css/main.522528e5.css.map",
+    "main.c5f05f07.js.map": "/lorem-ipsum-generator-in-react/static/js/main.c5f05f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.522528e5.css",
+    "static/js/main.c5f05f07.js"
+  ]
+}
