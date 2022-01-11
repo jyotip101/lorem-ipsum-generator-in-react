@@ -1,13 +1,8 @@
-# <h1 align="center"> Lorem Ipsum Generator </h1>
-
-  <p> 
-</p>
-
-##
+# <h1 align="center">Lorem Ipsum Generator</h1>
 
 <!-- DEMO -->
 
-## Demo
+## [Demo](https://jyotip101.github.io/lorem-ipsum-generator-in-react/)
 
 <!-- TABLE OF CONTENTS -->
 
@@ -21,10 +16,14 @@
 
 ## Overview
 
+![Lorem-Ipsum-Generator-App](https://user-images.githubusercontent.com/66724598/148904481-abf61668-8952-4375-b075-beaf0a16575d.png)
+
+![Lorem-Ipsum-Generator-App-mobile](https://user-images.githubusercontent.com/66724598/148904518-7573ce85-3b17-4ee2-9c19-5f0e7e60130c.png)
+
 ### Built With
 
 - [React](https://reactjs.org/)
-- icons are from [google icons](https://fonts.google.com/icons?selected=Material+Icons+Outlined)
+- CSS
 
 ## How To Use
 
