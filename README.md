@@ -2,7 +2,7 @@
 
 <!-- DEMO -->
 
-## [Demo](https://jyotip101.github.io/lorem-ipsum-generator-in-react/)
+## [Demo](https://thejyotipatel.github.io/lorem-ipsum-generator-in-react/)
 
 <!-- TABLE OF CONTENTS -->
 
